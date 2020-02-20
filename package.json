@@ -1,0 +1,17 @@
+{
+  "name": "break-even",
+  "version": "1.0.0",
+  "description": "Demo for test smells",
+  "main": "yelp.js",
+  "author": "davelu <dave792321001730003212345@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.8.4",
+    "@babel/preset-env": "^7.8.4",
+    "babel-jest": "^25.1.0",
+    "jest": "^25.1.0"
+  }
+}
